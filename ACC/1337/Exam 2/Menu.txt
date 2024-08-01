@@ -1,0 +1,16 @@
+Onion
+2.00
+Garlic
+1.00
+Apricot
+3.00
+Plums
+1.00
+Cabbage
+1.00
+Ginger
+1.00
+Orange
+1.00
+
+

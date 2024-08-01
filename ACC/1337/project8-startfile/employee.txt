@@ -1,0 +1,15 @@
+5 Christine Kim?30.00 2 1
+15 Stock Allrich?10.25 0 0
+16 Adrian Bailey?12.50 0 0
+17 Scooby Gonzales?30.00 1 1
+18 Morris Kramer?8.95 0 0
+22 Cindy Burke?15.00 1 0
+24 Esther Bianco?10.25 0 0
+25 Mars Moore?27.50 3 1
+32 Paula Cameron?14.50 0 0
+36 Melvin Ducan?10.25 0 0
+37 Nina Kamran?30.00 1 1
+38 Julie Brown?35.00 0 1
+40 Imelda Buentello?14.50 0 0
+42 J. P. Morgan?12.50 0 0
+43 Maria Diaz?15.00 0 0
