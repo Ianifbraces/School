@@ -1,0 +1,8 @@
+#https://leetcode.com/problems/search-insert-position/description/
+#Difficulty: easy
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        for i, num in enumerate(nums):
+            if num >= target:
+                return i
+        return len(nums)

@@ -1,1 +1,1 @@
-This is a place for compleated leetcode problems
+This is a place for compleated leetcode contests
